@@ -1,0 +1,11 @@
+**/catboost_info/
+Thumbs.db
+__pycache__/
+*.py[cod]
+.Python
+.vscode/
+.idea/
+*.swp
+*~
+venv/
+.env
